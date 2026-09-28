@@ -1,0 +1,9 @@
+FOTOS QUE FALTA AGREGAR EN ESTA CARPETA (formato .jpg)
+
+Slider:      hero-1.jpg  hero-2.jpg  hero-3.jpg      (horizontales, ~1800x900)
+Banner:      banner.jpg                              (horizontal, ~1800x600)
+Servicios:   servicio-diseno.jpg  servicio-plantacion.jpg  servicio-cuidado.jpg  (~700x500)
+Productos:   monstera.jpg  lavanda.jpg  echeveria.jpg  potus.jpg
+             maceta.jpg  tierra.jpg  ficus.jpg  herramientas.jpg   (cuadradas, ~800x800)
+
+Fotos gratis: unsplash.com o pexels.com

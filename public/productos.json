@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nombre": "Monstera deliciosa",
+    "categoria": "Interior",
+    "precio": 18500,
+    "emoji": "🌿",
+    "stock": 12,
+    "descripcion": "Hojas grandes con cortes naturales. Le gusta la luz indirecta y regar cuando la tierra se seca en superficie.",
+    "imagen": "img/monstera.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Lavanda en maceta",
+    "categoria": "Exterior",
+    "precio": 6900,
+    "emoji": "🪻",
+    "stock": 30,
+    "descripcion": "Aromática, resistente al sol y atrae abejas. Ideal para balcones y patios.",
+    "imagen": "img/lavanda.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Suculenta echeveria",
+    "categoria": "Suculentas",
+    "precio": 3200,
+    "emoji": "🪴",
+    "stock": 45,
+    "descripcion": "Forma de roseta y muy poco riego. La primera planta perfecta.",
+    "imagen": "img/echeveria.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Potus colgante",
+    "categoria": "Interior",
+    "precio": 5400,
+    "emoji": "🍃",
+    "stock": 20,
+    "descripcion": "Crece rápido y tolera poca luz. Queda muy bien en estantes altos.",
+    "imagen": "img/potus.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Maceta de cerámica esmaltada",
+    "categoria": "Macetas",
+    "precio": 9800,
+    "emoji": "🏺",
+    "stock": 15,
+    "descripcion": "Hecha a mano, 20 cm de diámetro, con plato y agujero de drenaje.",
+    "imagen": "img/maceta.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Tierra universal 10 L",
+    "categoria": "Insumos",
+    "precio": 4100,
+    "emoji": "🌱",
+    "stock": 60,
+    "descripcion": "Sustrato con perlita y humus de lombriz para la mayoría de las plantas de maceta.",
+    "imagen": "img/tierra.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Ficus lyrata",
+    "categoria": "Interior",
+    "precio": 32000,
+    "emoji": "🌳",
+    "stock": 5,
+    "descripcion": "Hojas en forma de violín. Necesita mucha luz y un lugar sin corrientes de aire.",
+    "imagen": "img/ficus.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Kit de herramientas",
+    "categoria": "Insumos",
+    "precio": 12700,
+    "emoji": "✂️",
+    "stock": 18,
+    "descripcion": "Tijera de podar, pala de mano y rociador. Todo lo básico para empezar.",
+    "imagen": "img/herramientas.jpg"
+  }
+]
