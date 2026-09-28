@@ -26,3 +26,9 @@ public/productos.json
 
 ## Fotos
 Las imágenes viven en `public/img/`. Ver `public/img/LEEME.txt` para los nombres de archivo.
+
+## Publicar en GitHub Pages
+1. Subí el proyecto a un repo público (rama `main`).
+2. En GitHub: Settings → Pages → Source: **GitHub Actions**.
+3. Hacé un push; en la pestaña Actions se despliega solo.
+4. El sitio queda en `https://TU-USUARIO.github.io/NOMBRE-DEL-REPO/`.
