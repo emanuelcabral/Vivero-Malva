@@ -31,7 +31,7 @@ export default function Footer() {
         <section>
           <h3>Vivero Malva</h3>
           <p>Plantas, macetas y asesoría para armar tu espacio verde. Vivero familiar en Buenos Aires desde 2015.</p>
-          <Link to="/productos" className="footer__more">Ver catálogo ›</Link>
+          <Link to="/productos" className="footer__more">Ver catálogo ›</Link><br />
           <h3 className="footer__sub">Legales</h3>
           <ul className="footer__links">
             <li><Link to="/">Políticas de privacidad</Link></li>
