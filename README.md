@@ -6,7 +6,7 @@ Este proyecto está hecho con **React, Vite y React Router**, e incluye **slider
 
 🔗 **Demo online:** [emanuelcabral.github.io/Vivero-Malva](https://emanuelcabral.github.io/Vivero-Malva/)
 
----
+----
 
 ## 🔗 Badges
 
